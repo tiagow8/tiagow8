@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Tiago Gomes, fututo engenheiro de software 👋
+<hr>
 
 
 - 🔭 Desenvolvendo Projetos Front-end ...
