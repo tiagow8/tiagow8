@@ -5,8 +5,6 @@
 - 🌱 Acadêmico de Engenharia de Software ...
 - 👯 Estudando Javascript ...
 - 🤔 Estou em busca de um estágio para colocar em prática meus conhecimentos em desenvolvimento web ...
-- 💬 Ask me about ...
-- 📫 Contate-me no email: tiagogomed81@gmail.com
 - 😄 Pronouns: Ele/Dele
 <div align = "center">
   <a href="https://github.com/tiagow8">
@@ -20,12 +18,12 @@
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Tiago-pic" height="150" style="border-radius:50px;>
+ 
 </div>
-   
+   <br>
  
 <div> 
-  <a href = "mailto:tiagogomed81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tiagogomed81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tiago-g-95b637205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/tiagow8/tiagow8/blob/output/github-contribution-grid-snake.svg)
