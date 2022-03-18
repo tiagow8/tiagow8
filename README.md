@@ -17,7 +17,7 @@
   <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="Tiago-PHP" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
-    <img align="center" alt="Tiago-node" height="40" width="40" src="https://commons.wikimedia.org/wiki/File:Node.js_logo.svg">
+    <img align="center" alt="Tiago-node" height="40" width="40" src="https://www.subpng.com/png-zk424g/">
 </div>
  
   ##
